@@ -1,0 +1,9 @@
+.dockerignore
+.vscode
+Dockerfile
+bitbucketreviewer
+k8s
+payloads
+readme.md
+/*.sh
+/*.txt
